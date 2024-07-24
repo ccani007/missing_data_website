@@ -20,7 +20,7 @@ You can learn more about my work and publications by clicking the button below:
 
 ::: {.column width="35%"}
 ::: {.photo} 
-![](Cata.jpeg)
+![](img/Cata.jpeg)
 :::
 :::
 :::
