@@ -1,0 +1,26 @@
+---
+title: "About"
+---
+
+::: columns
+::: {.column width="60%"}
+I recently graduated with a Ph.D. in Social Work and am currently working as a Postdoctoral Fellow at New York University [Steinhardt School of Culture, Education, and Human Development](https://steinhardt.nyu.edu/) and the [Arcadia Suicide Center](https://steinhardt.nyu.edu/ihdsc/projects/arcadia). 
+
+My research focuses on the **prevention of adolescent suicide attempts**. I am passionate about **data science** and **machine learning**, continually seeking to apply these tools to improve outcomes in my field.
+
+You can learn more about my work and publications by clicking the button below:
+
+<a href="https://ccani007.github.io/ccani_website" class="btn btn-primary" role="button" target="_blank">Visit My Website</a>
+
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="35%"}
+::: {.photo} 
+![](Cata.jpeg)
+:::
+:::
+:::

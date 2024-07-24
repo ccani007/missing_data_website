@@ -1,0 +1,9 @@
+---
+title: "List of References"
+bibliography: bib.bib
+nocite: |
+  @*
+csl: apa.csl
+---
+
+# References

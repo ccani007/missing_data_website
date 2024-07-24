@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "APA Poster"
+  navbar:
+     right:
+     - icon: github
+       href: https://github.com/ccani007
+     - icon: linkedin
+       href: https://www.linkedin.com/in/catalina-ca%C3%B1izares-escobar-2239114a/
+     - icon: twitter
+       href: https://twitter.com/catalinacaniza1?lang=en
+     left:
+      - href: index.qmd
+        text: Home
+      - poster.qmd
+      - references.qmd
+      - about.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

@@ -1,0 +1,16 @@
+---
+title: "Assessing the Impact of Missing Data on YRBS-Based Adolescent Suicide Research"
+format: html
+---
+
+Welcome to the digital version of my poster presented at the APA 2024 Seattle Conference! 
+
+I am excited to share my research with you.
+
+On this website, you will find:
+
+- [The digital version of my poster](poster.html)
+- [The list of references cited in my research](references.html)
+- [Information about me and my work](about.html)
+
+
